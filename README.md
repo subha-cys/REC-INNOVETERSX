@@ -1,6 +1,6 @@
 # INNOVETERSX
 
-smart-attendance/
+Smart-Attendance/
 <br>
 │
 ├── frontend/
